@@ -14,3 +14,4 @@ LeetCode
 |8|[String to integer atoi](https://leetcode.com/problems/string-to-integer-atoi/#/description)| [C++](https://github.com/piyush6348/leetcode/blob/master/String%20to%20Integer%20(atoi).cpp)|Medium|
 |451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/#/description)| [C++](https://github.com/piyush6348/leetcode/blob/master/Sort%20Characters%20By%20Frequency.cpp)|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/#/description)| [C++](https://github.com/piyush6348/leetcode/blob/master/Roman%20to%20Integer.cpp)|Easy|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/#/description)| [C++](https://github.com/piyush6348/leetcode/blob/master/Kth%20Smallest%20Element%20in%20a%20BST.cpp)|Medium|
