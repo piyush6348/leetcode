@@ -15,4 +15,5 @@ LeetCode
 |451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/#/description)| [C++](https://github.com/piyush6348/leetcode/blob/master/Sort%20Characters%20By%20Frequency.cpp)|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/#/description)| [C++](https://github.com/piyush6348/leetcode/blob/master/Roman%20to%20Integer.cpp)|Easy|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/#/description)| [C++](https://github.com/piyush6348/leetcode/blob/master/Kth%20Smallest%20Element%20in%20a%20BST.cpp)|Medium|
-|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/#/description)| [C++](https://github.com/piyush6348/leetcode/blob/master/Kth%20Smallest%20Element%20in%20a%20BST.cpp)|Medium|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/#/description)| [C++](https://github.com/piyush6348/leetcode/blob/master/Same%20Tree.cpp)|Easy|
+|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/#/description)| [C++](https://github.com/piyush6348/leetcode/blob/master/Populating%20Next%20Right%20Pointers%20in%20Each%20Node.cpp)|Medium|
