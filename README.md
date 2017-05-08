@@ -17,4 +17,4 @@ LeetCode
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/#/description)| [C++](https://github.com/piyush6348/leetcode/blob/master/Kth%20Smallest%20Element%20in%20a%20BST.cpp)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/#/description)| [C++](https://github.com/piyush6348/leetcode/blob/master/Same%20Tree.cpp)|Easy|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/#/description)| [C++](https://github.com/piyush6348/leetcode/blob/master/Populating%20Next%20Right%20Pointers%20in%20Each%20Node.cpp)|Medium|
-|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/#/description)| [C++](https://github.com/piyush6348/leetcode/blob/master/Populating%20Next%20Right%20Pointers%20in%20Each%20Node.cpp)|Medium|
+|112|[Path Sum](https://leetcode.com/problems/path-sum/#/description)| [C++](https://github.com/piyush6348/leetcode/blob/master/Path%20Sum.cpp)|Easy|
