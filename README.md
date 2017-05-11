@@ -18,4 +18,5 @@ LeetCode
 |100|[Same Tree](https://leetcode.com/problems/same-tree/#/description)| [C++](https://github.com/piyush6348/leetcode/blob/master/Same%20Tree.cpp)|Easy|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/#/description)| [C++](https://github.com/piyush6348/leetcode/blob/master/Populating%20Next%20Right%20Pointers%20in%20Each%20Node.cpp)|Medium|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/#/description)| [C++](https://github.com/piyush6348/leetcode/blob/master/Path%20Sum.cpp)|Easy|
-|112|[Path Sum](https://leetcode.com/problems/path-sum/#/description)| [C++](https://github.com/piyush6348/leetcode/blob/master/Path%20Sum.cpp)|Easy|
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/#/description)| [C++](https://github.com/piyush6348/leetcode/blob/master/Minimum%20Depth%20of%20Binary%20Tree.cpp)|Easy|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/#/description)| [C++](https://github.com/piyush6348/leetcode/blob/master/Maximum%20Depth%20of%20Binary%20Tree.cpp)|Easy|
