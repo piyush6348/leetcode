@@ -17,3 +17,4 @@
 |112|[Path Sum](https://leetcode.com/problems/path-sum/#/description)| [C++](https://github.com/piyush6348/leetcode/blob/master/Path%20Sum.cpp)|Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/#/description)| [C++](https://github.com/piyush6348/leetcode/blob/master/Minimum%20Depth%20of%20Binary%20Tree.cpp)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/#/description)| [C++](https://github.com/piyush6348/leetcode/blob/master/Maximum%20Depth%20of%20Binary%20Tree.cpp)|Easy|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/#/description)| [C++](https://github.com/piyush6348/leetcode/blob/master/Maximum%20Depth%20of%20Binary%20Tree.cpp)|Easy|
